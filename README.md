@@ -1,5 +1,5 @@
 🧠 Image Content Recognition with LLaVA & .NET API
-A full-stack project that allows users to upload an image and ask questions about its content. It features a modern Next.js frontend and a .NET Core API backend that connects to a locally running Ollama LLaVA model for image understanding and reasoning.
+A full-stack project that allows users to upload an image and ask questions about its content. It features a modern Next.js frontend and a .NET API backend that connects to a locally running Ollama LLaVA model for image understanding and reasoning.
 
 ✨ Features
 🌐 Next.js Frontend – Simple, responsive UI for uploading images and submitting questions
